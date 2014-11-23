@@ -860,3 +860,13 @@ img::-moz-selection {
 body {
     webkit-tap-highlight-color: #fed136;
 }
+.crop
+{
+    width:100%;
+    overflow:hidden;
+}
+.crop img 
+{
+    max-height:700px;
+    max-width:100%;
+}
