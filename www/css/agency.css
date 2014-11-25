@@ -874,3 +874,12 @@ body {
 {
     font-size:35px;
 }
+.text-danger
+{
+    color:#fed136 !important;
+    font-weight:bolder;
+}
+.text-danger ul
+{
+    list-style-type:none;
+}
